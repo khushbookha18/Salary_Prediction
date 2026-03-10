@@ -27,7 +27,7 @@ df = pd.DataFrame({
     "Enter your age":[age],
     "select your gender":[gender],
     "select your education":[education],
-    "select your job title":[job title],
+    "select your job title":[job_title],
     "Enter your experience(in years)":[experience]
     })
 
